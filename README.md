@@ -21,8 +21,6 @@ Current areas of focus include:
 - 🤖 **Generative AI in science** for responsible coding, analysis, and decision support
 - 📚 **Reusable documentation and templates** that make scientific workflows easier to review, maintain, and extend
 
-I primarily work in R, Quarto, GitHub, PostgreSQL/PostGIS, Azure, and structured metadata/schema workflows but enjoy learning new tools to extend my technical skillset and advance my projects!
-
 ## Working principles
 
 I care about code and data systems that are:
